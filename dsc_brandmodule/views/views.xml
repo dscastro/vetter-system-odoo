@@ -16,7 +16,7 @@
     </record>
 
 
-    <!-- actions opening views on models test -->
+    <!-- actions opening views on models test v3 -->
 
     <record model="ir.actions.act_window" id="dsc_brandmodule.action_window">
       <field name="name">dsc_brandmodule window</field>
