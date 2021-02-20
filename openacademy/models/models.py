@@ -18,7 +18,7 @@ from odoo import models, fields, api
 #             record.value2 = float(record.value) / 100
 
 
-class Course(models.Model)
+class Course(models.Model):
     _name = 'openacademy.course'
     _description = 'OpenAcademy Course'
 
