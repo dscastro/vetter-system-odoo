@@ -26,5 +26,16 @@
             <field name="value">40</field>
           </record>
 -->
+
+      <record model="openacademy.course" id="course">
+        <field name="name">Accountancy</field>
+        <field name="description">Bachelor of Science in Accountancy</field>
+      </record>
+
+      <record model="openacademy.course" id="course">
+        <field name="name">Secondary Education</field>
+        <field name="description">Bachelor of Science in Secondary Education</field>
+      </record>
+      
     </data>
 </odoo>
